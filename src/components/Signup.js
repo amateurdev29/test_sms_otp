@@ -35,7 +35,7 @@ const Signup = () => {
       setLoading(true);
       generateRecaptha();
       let appVerifier = window.recaptchaVerifier;
-        signInWithPhoneNumber(auth, `+84973253004`, appVerifier)
+        signInWithPhoneNumber(auth, `+84966494923`, appVerifier)
         .then(confirmationResult => {
           window.confirmationResult = confirmationResult;
           swal({
