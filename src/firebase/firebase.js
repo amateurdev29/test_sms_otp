@@ -10,13 +10,21 @@ const firebaseConfig = {
   // appId: "1:1014749047907:web:83cf44f001c92b72991c56",
   // measurementId: "G-0YM23K8M72"
 
-  apiKey: "AIzaSyA3Z-VBHhSLcD0EN8y_VHNydwcardLE94k",
-  authDomain: "smsotplong29.firebaseapp.com",
-  projectId: "smsotplong29",
-  storageBucket: "smsotplong29.appspot.com",
-  messagingSenderId: "1014749047907",
-  appId: "1:1014749047907:web:013cd6f64de66f70991c56",
-  measurementId: "G-Z8NMYKGLQB"
+  // apiKey: "AIzaSyA3Z-VBHhSLcD0EN8y_VHNydwcardLE94k",
+  // authDomain: "smsotplong29.firebaseapp.com",
+  // projectId: "smsotplong29",
+  // storageBucket: "smsotplong29.appspot.com",
+  // messagingSenderId: "1014749047907",
+  // appId: "1:1014749047907:web:013cd6f64de66f70991c56",
+  // measurementId: "G-Z8NMYKGLQB"
+
+  apiKey: "AIzaSyAMLk1-dj8g0qCqU3DkxLKHbrT0VhK5EeQ",
+  authDomain: "e-food-9e6e3.firebaseapp.com",
+  projectId: "e-food-9e6e3",
+  storageBucket: "e-food-9e6e3.appspot.com",
+  messagingSenderId: "410522356318",
+  appId: "1:410522356318:web:1f962a90aabeb82a3dc2cf",
+  measurementId: "G-X1LHXV0DK1"
   
 
   // apiKey: "AIzaSyAhazYU1yiDTviFyVhr_nygsqU51ikAvbE",
