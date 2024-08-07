@@ -18,22 +18,22 @@ const firebaseConfig = {
   // appId: "1:1014749047907:web:013cd6f64de66f70991c56",
   // measurementId: "G-Z8NMYKGLQB"
 
-  apiKey: "AIzaSyAMLk1-dj8g0qCqU3DkxLKHbrT0VhK5EeQ",
-  authDomain: "e-food-9e6e3.firebaseapp.com",
-  projectId: "e-food-9e6e3",
-  storageBucket: "e-food-9e6e3.appspot.com",
-  messagingSenderId: "410522356318",
-  appId: "1:410522356318:web:1f962a90aabeb82a3dc2cf",
-  measurementId: "G-X1LHXV0DK1"
+  // apiKey: "AIzaSyAMLk1-dj8g0qCqU3DkxLKHbrT0VhK5EeQ",
+  // authDomain: "e-food-9e6e3.firebaseapp.com",
+  // projectId: "e-food-9e6e3",
+  // storageBucket: "e-food-9e6e3.appspot.com",
+  // messagingSenderId: "410522356318",
+  // appId: "1:410522356318:web:1f962a90aabeb82a3dc2cf",
+  // measurementId: "G-X1LHXV0DK1"
   
 
-  // apiKey: "AIzaSyAhazYU1yiDTviFyVhr_nygsqU51ikAvbE",
-  // authDomain: "jobfind-a9d99.firebaseapp.com",
-  // projectId: "jobfind-a9d99",
-  // storageBucket: "jobfind-a9d99.appspot.com",
-  // messagingSenderId: "226812056684",
-  // appId: "1:226812056684:web:1df2a2e6fc4bca1cedb449",
-  // measurementId: "G-5CYRYWP0EQ"
+  apiKey: "AIzaSyAhazYU1yiDTviFyVhr_nygsqU51ikAvbE",
+  authDomain: "jobfind-a9d99.firebaseapp.com",
+  projectId: "jobfind-a9d99",
+  storageBucket: "jobfind-a9d99.appspot.com",
+  messagingSenderId: "226812056684",
+  appId: "1:226812056684:web:1df2a2e6fc4bca1cedb449",
+  measurementId: "G-5CYRYWP0EQ"
 
   
   // apiKey: "AIzaSyA3Z-VBHhSLcD0EN8y_VHNydwcardLE94k",
